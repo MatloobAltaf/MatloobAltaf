@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Muhammad Matloob Altaf</h1>
 <br/>
-<p>I'm Full Stack Developer</p>
+<p>Full stack? More like full snack - I do it all!</p>
 
 <a target="_blank" href="https://LinkedIn.com/in/MatloobAltaf">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -21,7 +21,7 @@
     <td rowspan="9">  
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=MatloobAltaf&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats-matloobaltaf.vercel.app/api/top-langs?username=MatloobAltaf&theme=github_dark&show_icons=true&locale=en&layout=compact"
         alt="MatloobAltaf"
         width="500"
       />
