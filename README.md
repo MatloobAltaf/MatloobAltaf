@@ -21,7 +21,7 @@
     <td rowspan="9">  
       <img
         align="center"
-        src="[https://github-readme-stats-matloobaltaf.vercel.app/api/top-langs?username=MatloobAltaf&theme=github_dark&show_icons=true&locale=en&layout=compact](https://github-readme-stats-82cpnfigx-matloobaltaf.vercel.app/api/top-langs/?username=matloobaltaf&theme=github_dark&show_icons=true&locale=en&layout=compact)"
+        src="https://github-readme-stats-two-sage-95.vercel.app/api/top-langs/?username=matloobaltaf&theme=github_dark&locale=en&layout=compact"
         alt="MatloobAltaf"
         width="500"
       />
