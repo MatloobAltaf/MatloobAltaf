@@ -21,12 +21,24 @@
     <td rowspan="9">  
       <img
         align="center"
-        src="https://github-readme-stats-two-sage-95.vercel.app/api/top-langs/?username=matloobaltaf&theme=github_dark&locale=en&layout=compact"
-        alt="MatloobAltaf"
+        src="https://api.roadmap.sh/v1-badge/wide/649567d4d99c9d67318f81c8?variant=dark"
+        alt="MatloobAltaf @ roadmap.sh"
         width="500"
       />
     </td>
   </tr>
+    <tr>
+    <td rowspan="9">  
+      <img
+        align="center"
+        src="https://github-readme-stats-two-sage-95.vercel.app/api/top-langs/?username=matloobaltaf&theme=github_dark&locale=en&layout=compact"
+        alt="MatloobAltaf's Github Stats"
+        width="500"
+      />
+    </td>
+  </tr>
+</table>
+    <table style="font-size: 12px; border: none;">
   <tr>
     <td>Languages</td>
     <td><img width="70" alt="JavaScript" src="https://img.shields.io/badge/-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></td>
@@ -42,6 +54,8 @@
     <td><img width="70" alt="SASS" src="https://img.shields.io/badge/-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/></td>
     <td><img width="70" alt=".Net" src="https://img.shields.io/badge/-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></td>
     <td><img width="70" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/></td>
+    <td><img width="70" alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white"/></td>
+    <td><img width="70" alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></td>
   </tr>
   <tr>
     <td>Tools</td>
