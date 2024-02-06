@@ -50,12 +50,12 @@
   <tr>
     <td>Frameworks</td>
     <td><img width="70" alt="React" src="https://img.shields.io/badge/-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></td>
-    <td><img width="70" alt="Bootstrap" src="https://img.shields.io/badge/-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
-    <td><img width="70" alt="SASS" src="https://img.shields.io/badge/-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/></td>
     <td><img width="70" alt=".Net" src="https://img.shields.io/badge/-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></td>
     <td><img width="70" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/></td>
     <td><img width="70" alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white"/></td>
     <td><img width="70" alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></td>
+    <td><img width="70" alt="Bootstrap" src="https://img.shields.io/badge/-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
+    <td><img width="70" alt="SASS" src="https://img.shields.io/badge/-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/></td>
   </tr>
   <tr>
     <td>Tools</td>
