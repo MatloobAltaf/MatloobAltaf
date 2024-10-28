@@ -38,7 +38,9 @@
     </td>
   </tr>
 </table>
-    <table style="font-size: 12px; border: none;">
+
+<h2>Technologies</h2>
+<table style="font-size: 12px; border: none;">
   <tr>
     <td>Languages</td>
     <td><img width="70" alt="JavaScript" src="https://img.shields.io/badge/-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></td>
@@ -73,15 +75,4 @@
     <td></td>
     <td></td>
   </tr>
-  <!-- <tr>
-    <td>Tools</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr> -->
 </table>
