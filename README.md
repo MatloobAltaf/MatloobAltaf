@@ -27,16 +27,6 @@
       />
     </td>
   </tr>
-    <tr>
-    <td rowspan="9">  
-      <img
-        align="center"
-        src="https://github-readme-stats-two-sage-95.vercel.app/api/top-langs/?username=matloobaltaf&theme=github_dark&locale=en&layout=compact"
-        alt="MatloobAltaf's Github Stats"
-        width="500"
-      />
-    </td>
-  </tr>
 </table>
 
 <h2>Technologies</h2>
