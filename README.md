@@ -2,6 +2,9 @@
 <br/>
 <p>Full stack? More like full snack - I do it all!</p>
 
+<a target="_blank" href="https://matloob.pk">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge"/>
+</a>
 <a target="_blank" href="https://LinkedIn.com/in/MatloobAltaf">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
