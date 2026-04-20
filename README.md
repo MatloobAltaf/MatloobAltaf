@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI-forward+engineer;Tech+Lead%2C+Project+Genesis;Building+with+Claude+Code+%26+MCP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI-Native+Engineer;Tech+Lead" alt="Typing SVG" />
 
 # Hi, I'm Matloob 👋
 
